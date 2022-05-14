@@ -3,9 +3,9 @@ To manipulate the shadow pixel according to its non-shadow mapping for an effect
 
 
 How to view the code:
-✔ *The MATLAB Folder consists of the code to detect, correct, remove and replace the shadow pixels from an image.
-✔ *The img folder consists of sample images for our usecase.
-✔ *The feature folder contains matlab code of inbuilt functions and methods for extracting image features from input images.
+*The MATLAB Folder consists of the code to detect, correct, remove and replace the shadow pixels from an image.
+*The img folder consists of sample images for our usecase.
+*The feature folder contains matlab code of inbuilt functions and methods for extracting image features from input images.
 
 The following are the various algorithmics apporaches undertaken in sequence to retrive the final output image:
 
